@@ -9,7 +9,7 @@
 
 """
 ##################################
-Code written by (Jason) Rui Jia Ma
+Code written by (J)RJM
 ###################################
 """
 
